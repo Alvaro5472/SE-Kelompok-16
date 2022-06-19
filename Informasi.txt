@@ -16,5 +16,8 @@ https://cdnjs.com/libraries/jquery.isotope
 Banner Size
 1920x802px
 
+Small Banner Size
+500x150px
+
 Product Size
 1500x1500px
