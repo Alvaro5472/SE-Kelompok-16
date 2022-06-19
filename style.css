@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans&family=Roboto&family=Rubik&display=swap");
+/* SASS Template */
+button, button:focusP {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.font-roboto {
+  font-family: "Roboto", cursive;
+}
+
+.font-openSans {
+  font-family: "Open Sans", cursive;
+}
+
+.font-notoSans {
+  font-family: "Noto Sans", cursive;
+}
+
+.font-rubik {
+  font-family: "Rubik", cursive;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.color-primary {
+  color: #ebac00;
+}
+
+.color-primary-bg {
+  background: #ebac00;
+}
+
+.color-second {
+  color: #ad723b;
+}
+
+.color-second-bg {
+  background: #ad723b;
+}
+
+.color-green {
+  color: #00ff55;
+}
+
+.color-green-bg {
+  background: #00ff55;
+}
+
+.color-yellow {
+  color: #73ff00;
+}
+
+.color-yellow-bg {
+  background: #73ff00;
+}
+
+/*# sourceMappingURL=style.css.map */
