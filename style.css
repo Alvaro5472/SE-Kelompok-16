@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans&family=Roboto&family=Rubik&display=swap");
 /* SASS Template */
-button, button:focusP {
+button, button:focus {
   outline: none !important;
   box-shadow: none !important;
 }
@@ -35,10 +35,6 @@ button, button:focusP {
 
 .font-size-20 {
   font-size: 20px;
-}
-
-a {
-  text-decoration: none;
 }
 
 .color-primary {
